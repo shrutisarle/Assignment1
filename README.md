@@ -1,5 +1,6 @@
 # Vecta Corporation 
- 
+
+========================================================================================================================================
 
 ![Vecta Corp][VectaC]
 
@@ -27,6 +28,7 @@ Ferris Finkelstein, Founder and CEO darknozzle_
 > + _Incredible results from an incredible effort by the Vecta Corporation team! We are very pleased with the business benefits we have rceived by working with them.  
 Justin Case, CTO IX Inc._  
 
+=========================================================================================================================================
 
 ## Contact 
 
