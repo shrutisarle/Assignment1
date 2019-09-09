@@ -3,7 +3,7 @@
 
 ![Vecta Corp][VectaC]
 
-##About Vecta Corp
+## About Vecta Corp
 Vecta Corporation provides scalable business solutions to help companies achieve success through revenue increase, cost management, and user satisfaction.  
 Their business aspects are mostly concentrated with helping companies reach prospects, assist in converting prospects to customers, and assist in retaining those customers.  
 This is accomplished through our interactive solutions and expertise in providing a memorable and positive user experience. 
